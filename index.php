@@ -31,7 +31,7 @@ require ("begin.php");
 <div class="container">
 	<div class="channel clearfix">
 		<ul>
-			<li class="li01"><a href="#"><i></i>
+			<li class="li01"><a href="#" title="A标签"><i></i>
 				<dl>
 					<dt>项目性融资</dt>
 					<dd class="i">项目融资方式有助于控制信贷风险和提高银行的经营效益，有逐步被国内商业银行采用的趋势。</dd>
