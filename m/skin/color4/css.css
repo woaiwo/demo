@@ -1,0 +1,16 @@
+@charset "utf-8";
+#header { border-top: 8px solid #b80303; }
+.swiper-container .swiper-pagination-bullet-active { background-color: #b80303; }
+.mian_nav ul li { background: #eaeaea; }
+.u-tt .hd h2,.m-pFList li .t a { color: #b10000; }
+.m-pFList li:after { background-color: #e60012; }
+.more-common-01 { border-bottom: 3px solid #b10000; }
+.more-common-01 a { background:url(more_blue.png) no-repeat 90% center; }
+.form-panel .btn-submit { background: #b10000; }
+.page a { background: #999; }
+.page .current { background: #b10000; }
+.form-search { box-shadow: 3px 5px 5px #b10000; }
+.form-search input[type="submit"] { background: #b10000; }
+.m-nav li a:hover,.m-nav .current a { color:#b10000; }
+.m-nav .current:after{content:"";border-left:2px solid #b10000;}
+#fixed-foot .li-01 { background-image: url(icon_arr_email.png); }

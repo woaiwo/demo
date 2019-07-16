@@ -1,0 +1,45 @@
+@charset "utf-8";
+
+body,h1,h2,h3,h4,h5,h6,p,dl,dd,ul,ol{margin:0;padding:0}em,i{font-style:normal}li{list-style:none}a,a:hover{text-decoration:none}img{border:0}table{border-collapse:collapse;border-spacing:0}label{cursor:default}body,button,input,select,textarea{font:12px/1.5 Tahoma,arial,'Hiragino Sans GB','microsoft yahei',\5b8b\4f53}textarea{resize:none}a,a:focus{outline:none}.clearfix:after{content:'\20';display:block;height:0;clear:both}.clearfix{*zoom:1}.clear{display:block;height:0;clear:both;font-size:0;line-height:0;overflow:hidden}.fl{float:left;display:inline}.fr{float:right;display:inline}.fn{float:none}.tl{text-align:left}.tr{text-align:right}.tc{text-align:center}.hide{display:none}.show{display:block}.mt10{margin-top:10px}.noBg{background:none!important}.noBorder{border:0!important}.yahei{font-family:'microsoft yahei'}.red{color:red}
+/* 项目主体部分设置 */
+body{background:#fff;color:#555; font-family: "microsoft yahei"}
+a{text-decoration:none;/*transition:color 0.2s linear 0s*/}
+.wrapper a:hover{color: #7db838;}
+.wrapper { position:relative; width:100%; margin:0 auto; overflow:hidden; }
+.g-in { width:1200px; margin:0 auto; }.g-in:after{content:'\20';display:block;height:0;clear:both}.g-in{*zoom:1}
+.header { position:relative;}
+
+.header .nav {height: 50px;line-height: 50px; width: 745px; margin: 0 auto; text-align: center;}
+.header .nav .nLi {display: inline-block;text-align: center;}
+.header .nav .nLi a.on { color:#7db838 ; }
+.header .nav .nLi a {display: inline-block;height: 50px; font-size: 16px; padding: 10px 15px; color: #3f3a39; font-weight: normal;}
+.header .nav .nLi a:hover {color:#7db838;}
+.banner {position:relative; left:50%; width:1920px; margin-left:-960px; text-align:center;}
+.banner .hd { position:absolute; left:0; bottom:20px; width:100%; height:12px; z-index:4; }
+.banner .hd ul { width:1200px; height:12px; margin:0 auto; text-align:center;}
+.banner .hd ul li { display:inline-block; *display:inline; zoom:1; width:10px; height:10px; margin:0 4px; border-radius:5px; background:#fff; line-height:999px; overflow:hidden; cursor:pointer; vertical-align:top;}
+.banner .hd ul .on {background-color:#7db838; }
+
+/*footer部分*/
+.footer { background-color: #626262; }
+.w-h .w-h-l { text-align: left; color:#fff; padding: 30px 0 0 30px; width: 400px; }
+.w-h .w-h-l h3 { font-size: 18px;margin-bottom: 10px; font-weight: normal;}
+.w-h .w-h-l p { font-size: 12px; line-height: 20px; }
+.w-h .w-h-l p a { color: #fff; }
+.w-h .w-h-l span { display: block; padding-left: 25px; }
+.w-h .w-h-m { width: 200px; text-align: center; margin: 25px auto; }
+.w-h .w-h-m li { margin-top: 10px; }
+.w-h .w-h-m span { display: block; color: #fff; font-size: 10px; }
+.w-h .w-h-r { width: 550px; margin-top: 25px; text-align: center; }
+.w-h .w-h-r input { margin-top: 15px; border: none; border-radius: 5px; color: #737373;}
+.w-h .w-h-r .sign1 { width: 510px; height: 36px; line-height: 36px; padding-left: 10px; }
+.w-h .w-h-r .sign2 { width: 510px; height: 90px; text-align: top; padding-left: 10px; }
+.w-h .w-h-r .sign3 { width: 100px; height: 36px; line-height: 36px; font-size: 18px; color: #fff; background-color: #7db838;}
+.w-i { border-top: 1px solid #b4b4b4; text-align: center; padding: 10px 0; }
+.w-i p { display: inline-block; color: #fff;  }
+.w-i p a { color: #fff; }
+
+
+
+
+
