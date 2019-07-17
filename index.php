@@ -30,7 +30,7 @@ require ("begin.php");
 ?>
 <div class="container">
 	<div class="channel clearfix">
-		<ul class="aaaaaabbbbbb">
+		<ul class="diff测试aaaaaabbbbbb">
 			<li class="li01"><a href="#" title="A标签测试测试测试测试"><i></i>
 				<dl>
 					<dt>项目性融资</dt>
